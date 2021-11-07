@@ -27,6 +27,7 @@ desktop -> 2021 : cd ../pictures/2021
 加入存擋範圍：git add 
 HEAD: 游標 現在在哪個版本
 branch: 分支 平行時空
+
 ## 複製專案
 git clone https://github.com/xnlyu/frontend-tutorial.git
 1. git remote add willy https://github.com/WillyLi/frontend-tutorial.git （只要一次）
