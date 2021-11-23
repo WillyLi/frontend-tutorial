@@ -147,3 +147,4 @@ responsive toggle device tool bar 去縮放畫面大小
 9. https://www.w3schools.com/css/css_link.asp
 10. https://www.w3schools.com/css/css_list.asp
 11. https://www.w3schools.com/css/css_table.asp
+12. https://www.w3schools.com/css/css_image_transparency.asp
