@@ -29,7 +29,7 @@ HEAD: 游標 現在在哪個版本
 branch: 分支 平行時空
 
 ## 複製專案
-git clone https://github.com/xnlyu/frontend-tutorial.git
+git clone   
 1. git remote add willy https://github.com/WillyLi/frontend-tutorial.git （只要一次）
 2. git fetch willy (更新存擋紀錄)
 3. git merge willy/main
