@@ -1,0 +1,41 @@
+.header{
+    height: 450px;
+    background-color: gray;
+    margin: -8px;
+    }
+  
+  .header-nav{
+    margin-left: 20px; 
+   }
+  
+  .nav-Home{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    line-height: 50px;
+    margin-right: 15px;
+  }
+  
+  .nav-Articles{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    line-height: 50px;
+  }
+  
+  .header-title{
+    margin-top: 100px;
+    width: 350px;
+    color: black;
+    font-weight: bold;
+    font-size: 60px;
+    font-style: Italic;
+    text-align: right;
+   }
+  
+  .header-subtitle{
+    width: 350px;
+    color: black;
+    text-align: right;
+    margin-bottom: 50px;
+  }
