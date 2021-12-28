@@ -1,0 +1,133 @@
+.header{
+  height: 450px;
+  background-color: gray;
+  margin: -8px;
+  box-sizing: border-box;
+  }
+
+.header-nav{
+  margin-left: 20px; 
+ }
+
+.nav-Home{
+  text-decoration: none;
+  color: white;
+  font-size: 15px;
+  line-height: 50px;
+  margin-right: 15px;
+}
+
+.nav-Articles{
+  text-decoration: none;
+  color: white;
+  font-size: 15px;
+  line-height: 50px;
+}
+
+.header-title{
+  margin-top: 100px;
+  width: 350px;
+  color: black;
+  font-weight: bold;
+  font-size: 60px;
+  font-style: Italic;
+  text-align: right;
+ }
+
+.header-subtitle{
+  width: 350px;
+  color: black;
+  text-align: right;
+  margin-bottom: 50px;
+}
+
+.about-title{
+  text-align: center;
+  font-weight: bold;
+  font-size: 40px;
+  font-style: Italic;
+  margin: 60px 0;
+  }
+
+.aboutWord1{
+  text-align: center;
+  margin-bottom: 30px;
+  line-height: 25px;
+  font-size: 15px;
+  width: 564px;
+  margin: auto;
+  padding-bottom: 40px;
+    
+}
+
+.aboutWord2{
+  text-align: center;
+  margin-bottom: 30px;
+  line-height: 25px;
+  font-size: 15px;
+  width: 564px;
+  margin: auto;
+  padding-bottom: 40px;
+}
+
+.aboutLine{
+  width: 1px;
+  height: 100px;
+  background-color: gray;
+  }
+
+.work{
+ 
+}
+
+.workTitle{
+  text-align: center;
+  font-weight: bold;
+  font-size: 40px;
+  font-style: Italic;
+  }
+
+.work-time1{
+  font-size: 15px;
+  text-align: center;
+  line-height: 50px;
+  margin-top: 60px;
+}
+
+.work-word1{
+  font-size: 15px;
+  text-align: center;
+  width: 428px;
+  margin: auto;
+  padding-bottom: 50px; 
+}
+
+.work-time2{
+  font-size: 15px;
+  text-align: center;
+  line-height: 50px;
+  margin-top: 60px;
+}
+
+.work-word2{
+  font-size: 15px;
+  text-align: center;
+  width: 428px;
+  margin: auto;
+  padding-bottom: 50px; 
+}
+
+.work-time3{
+  font-size: 15px;
+  text-align: center;
+  line-height: 50px;
+  margin-top: 60px;
+}
+
+.work-word3{
+  font-size: 15px;
+  text-align: center;
+  width: 428px;
+  margin: auto;
+  padding-bottom: 50px; 
+}
